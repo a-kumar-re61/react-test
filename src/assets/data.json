@@ -1,0 +1,111 @@
+{
+    "name": "Aman Kumar",
+    "phone": "8858476953", 
+    "email": "Aman.Kumar.IIITR@gmail.com", 
+    "github": "Github",
+    "linkedin": "LinkedIn",
+    "EDUCATION": [
+        {
+            "schoolName": "Indian Institute of Information Technology, Ranchi", 
+            "location": "Ranchi, India",
+            "course": "Bachelor of Technology (Hons.) in Computer Science and Technology",
+            "start-date": "Aug 2019",
+            "end-date": "Jun 2023"    
+        },
+        {
+            "schoolName": "Central Hindu Boys School (BHU)", 
+            "location": "Varanasi, India",
+            "course": "PCM (CBSE)",
+            "start-date": "Aug 2017",
+            "end-date": "Mar 2018"    
+        }
+    ],
+    "EXPERIENCE":[
+        {
+            "company": "Google Developers Students Club (IIIT Ranchi)",
+            "location": "Ranchi, India",
+            "role":"Executive Strategist",
+            "start-date": "Sep 2021",
+            "end-date": "present",
+            "details": [
+                "Facilitated planning and execution of community ideas and collaborated with other administratives and leads to plan projects for the community.",
+                "Coordinated with organizers for conducting events, tech talks and workshops.",
+                "Arranged active community portal and event platforms"
+            ]
+        },
+        {
+            "company": "Boa : a Rust based JavaScript engine",
+            "location": "Remote",
+            "role":"Open Source Developer",
+            "start-date": "Oct 2021",
+            "end-date": "Nov 2021",
+            "details": [
+                "Implemented changes to allow Binding Patterns as parameters in Javascript functions.",
+                "Managed more than 409 failing tests.",
+                "Improved ECMAscript conformance by 0.41%."
+            ]
+        },
+        {
+            "company": "House Of Geeks",
+            "location": "Remote",
+            "role":"Open Source Developer/Maintainer",
+            "start-date": "Oct 2020",
+            "end-date": "Nov 2020",
+            "details": [
+                "Researched and selected the appropriate model and its components.",
+                "Performed model selection, data processing and model training for hg-Chatbot, one of the community projects",
+                "Managed code reviews and authorization of the project repository"
+            ]
+        }   
+    ],
+    "PROJECTS": [
+        {
+            "name": "Ecriture",
+            "tech-stack": ["python", "expressJS", "selenium-hub", "docker", "ReactJS", "NodeJS"],
+            "start-date": "Jun 2021",
+            "end-date": "July 2021",
+            "details": [
+                "A cloud based scraping project, primarily aimed at scraping the job opportunities from different major companies",
+                "It aims at scraping dynamic websites opposed to classical scraping that only aims static sites"
+            ],
+            "link": ""
+        },
+        {
+            "name": "HG-Chatbot",
+            "tech-stack": ["python", "tensorflow", "numpy", "pandas"],
+            "start-date": "Oct 2020",
+            "end-date": "Nov 2020",
+            "details": [
+                "This is a community project aimed at building a chatbot as part of the Data Science and AI community",
+                "Used Reddit-conversation dataset for training a transformer based NLP model"
+            ],
+            "link": ""
+        },
+        {
+            "name": "Gray",
+            "tech-stack": ["OpenGL", "C++", "GLFW", "GLEW", "Visual Studio"],
+            "start-date": "May 2021",
+            "end-date": "June 2021",
+            "details": [
+                "An OpenGL learning project.",
+                "This project was inspired by youtuber “The Cherno”’s openGL series."
+            ],
+            "link": ""
+        },
+        {
+            "name": "ToDo",
+            "tech-stack": ["ReactJS", "NodeJS"],
+            "start-date": "Oct 2021",
+            "end-date": "Nov 2021",
+            "details": [
+                "Basic todo app based on ReactJS and NodeJS"
+            ],
+            "link": "am-a-man.github.io/todo"
+        }
+    ],
+    "TECHNICAL SKILLS": {
+    "Languages": ["JavaScript ES6+", "C++", "C", "HTML5", "CSS3", "Python", "Rust"],
+    "Developer Tools": ["Git", "Google Cloud", "Selenium", "Docker", "GitHub Actions", "MongoDB", "PostgreSQL", "VS Code", "Visual Studio", "Pandas", "Numpy", "Matplotlib", "seaborn", "Google Colab", "Jupyter Notebooks"]
+    }
+    
+}
