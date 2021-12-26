@@ -6,5 +6,6 @@
 
 pre {
   width:100vw;
+  overflow: wrap;
   overflow-wrap: normal;
 }
